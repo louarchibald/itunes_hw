@@ -1,0 +1,17 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.song-list {
+    color:white;
+    line-height: 35px;
+}
+  
+.song-name {
+    color: #afd49d;
+}
+
+ul {
+    list-style: none;
+}
